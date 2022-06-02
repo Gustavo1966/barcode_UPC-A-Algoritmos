@@ -1,4 +1,4 @@
-# barcode_UPC-A-Algoritmos
+# Algoritmos para Generar Codigo de Barras UPC-A / EAN8-13
 Un par de algoritmos en el archivo generador.php para obtener los 12 digitos para poder generar el codigo de barra del tipo UPC-A
 El archivo generar.php, contiene el formulario para introducir los valores y generar Código UPC / EAN8-13, que luego podra ser usado para crear el codigo de barras como tal. 
 
