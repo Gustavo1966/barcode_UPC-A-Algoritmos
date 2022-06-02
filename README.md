@@ -1,5 +1,6 @@
 # barcode_UPC-A-Algoritmos
-Varios algoritmos para obtener los 12 digitos para poder generar el codigo de barra del tipo UPC-A
+Un par de algoritmos en el archivo generador.php para obtener los 12 digitos para poder generar el codigo de barra del tipo UPC-A
+El archivo generar.php, contiene el formulario para introducir los valores y generar Código UPC / EAN8-13, que luego podra ser usado para crear el codigo de barras como tal. 
 
 Un código de barras UPC es el segundo tipo de código de barras de venta minorista más común. El código consta de 12 números y codifica un código de país, código de empresa y código de producto. Los códigos de barras UPC se utilizan ampliamente en Estados Unidos, Canadá, Europa, Australia, Nueva Zelanda y otros países para el seguimiento de artículos comerciales en tiendas.
 
