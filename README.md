@@ -11,10 +11,10 @@ Para el uso correcto, verificacion y generar el codigo de barras se necesita lo 
 # PHP Barcode Generator 
 https://github.com/picqer/php-barcode-generator/
 
-# Instalacion
+# Instalación
 
 Instalar por medio de composer:
 
 composer require picqer/php-barcode-generator
 
-Si necesita generar imagenes PNG o JPG, tambien necesitara la libreria GD o Imagick instalado en su sistema.
+Si necesita generar imagenes PNG o JPG, también necesitará la libreria GD o Imagick instalados en su sistema.
