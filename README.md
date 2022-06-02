@@ -17,4 +17,4 @@ Instalar por medio de composer:
 
 composer require picqer/php-barcode-generator
 
-Si necesita generar imagenes PNG o JPG, necesitara la libreria GD o Imagick instalado en su sistema.
+Si necesita generar imagenes PNG o JPG, tambien necesitara la libreria GD o Imagick instalado en su sistema.
