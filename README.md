@@ -6,6 +6,8 @@ Un código de barras UPC es el segundo tipo de código de barras de venta minori
 
 El código UPC (siglas de “Universal Product Code”) es un código de barras diseñado especialmente para identificar de manera inequívoca productos y consiste en un número único de 12 dígitos que se representan por barras de diferentes anchos y separación entre ellas para ser legibles por un scanner.
 
+
+
 Para el uso correcto, verificación y generar el código de barras se necesita lo siguiente: 
 
 # PHP Barcode Generator 
