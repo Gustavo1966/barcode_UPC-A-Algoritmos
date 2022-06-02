@@ -42,7 +42,7 @@ for ($contador = 0; $contador < strlen($codigo); $contador++) {
 // Fin proceso de localizar posiciones
 
 // Obtenemos todos los valores de la variables y los guardamos para realizar los calculos necesarios para generar el codigo de validación $DifPI
-// que se agregaría al final del código
+// que se agregaría al final del código, para obtener el código final de 12 digitos
 
 $sumPares = array_sum($pares) * 3; // Sumamos el array obtenido en la variable $pares (valores en las posiociones pares) y lo multiplicamos por 3
 $sumImpares = array_sum($impares); // Sumamos el array obtenido en la variable $impares (valores en las posiociones impares)
